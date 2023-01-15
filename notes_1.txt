@@ -1,0 +1,61 @@
+C/C++
+Python
+
+Java
+- Object Oriented Programming
+  - class and object
+- General Purpose
+  - Software Development
+  - Game Development
+  - Software Testing
+
+
+Compile - convert source code into byte code
+- javac FileName.java
+
+Interpret - line by line execution
+- java ClassName
+
+4 types of scopes in Java :
+- public, protected, default, private
+
+Java
+- JDK - Java Development Kit
+  - used to compile the code
+- JRE - Java Runtime Environment
+  - used to interpret the code
+- JVM - Java Virtual Machine
+
+
+Why main is public ?
+Why main is static ?
+Why main is void ?
+
+What is System ?
+- Pre-defined class used for input, output and print error
+
+What is out ?
+- out is a member of System class and object of PrintStream class
+
+What is println ?
+- method of PrintStream class
+
+
+Data Types
+- Primitive
+  - byte, short, int, long, float, double
+  - char, boolean
+
+- Non-Primitive
+  - Array, String
+
+
+
+
+
+
+
+
+
+
+
